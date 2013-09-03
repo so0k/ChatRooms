@@ -1,0 +1,2 @@
+info: socket.io started
+server is listening on port \\.\pipe\f6c164a2-e90b-4952-971c-b694a4658c62

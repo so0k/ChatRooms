@@ -1,0 +1,4 @@
+info: socket.io started
+server listening on port \\.\pipe\e5104793-0e6c-435e-bbad-f09a329b12dc
+warn: client not handshaken client should reconnect
+warn: client not handshaken client should reconnect

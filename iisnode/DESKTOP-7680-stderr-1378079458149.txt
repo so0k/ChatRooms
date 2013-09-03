@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError: Object #<Object> has no method 'clients'
+    at joinRoom (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\lib\chat_server.js:34:32)
+    at SocketNamespace.exports.listen (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\lib\chat_server.js:121:9)
+    at SocketNamespace.EventEmitter.emit [as $emit] (events.js:126:20)
+    at connect (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\namespace.js:292:10)
+    at E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\namespace.js:308:13
+    at SocketNamespace.authorize (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\namespace.js:252:5)
+    at SocketNamespace.handlePacket (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\namespace.js:302:14)
+    at Manager.handleClient (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\manager.js:698:32)
+    at Manager.handleHTTPRequest (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\manager.js:630:8)
+    at Manager.handleRequest (E:\Users\Vincent.DeSmet\Documents\My Web Sites\Empty Site\node_modules\socket.io\lib\manager.js:591:12)
