@@ -1,0 +1,2 @@
+1. send-message box is not being cleared after processing commands
+2. socket.io isn't working on IISNode (seems to work fine running through Node directly)
